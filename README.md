@@ -4,8 +4,6 @@
 A **full-stack Slack clone** built with modern technologies like **React**, **Node.js**, **Docker**, and **MongoDB**.  
 This project replicates the core chat features of Slack, including real-time messaging, room management, and authentication.
 
-![Screenshot](https://github.com/Viveksuryawanshi9405/Slack_Clone/assets/banner.png) <!-- Replace with your actual screenshot or banner -->
-
 ---
 
 ## ✨ Features
