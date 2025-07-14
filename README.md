@@ -81,7 +81,8 @@ Everything is containerized and orchestrated with Docker Compose.
 
 ## 📸 Screenshots
 
-> ⚠️ *Add screenshots of your UI here*
+<img width="1920" height="969" alt="Screenshot 2025-07-14 162748" src="https://github.com/user-attachments/assets/38ac7d7b-0b20-4fec-8cde-51825b6d19a3" />
+
 
 ---
 
@@ -89,13 +90,6 @@ Everything is containerized and orchestrated with Docker Compose.
 
 Contributions, issues, and feature requests are welcome!  
 Feel free to check the [issues page](https://github.com/Viveksuryawanshi9405/Slack_Clone/issues).
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.  
-See the [LICENSE](LICENSE) file for details.
 
 ---
 
